@@ -1,0 +1,1 @@
+If you are scrolling with the trackpad, there is a known issue with Chromium (#13612) where it does not process trackpad gestures correctly. One workaround which I use successfully is to "restore" and then maximize back VS Code.

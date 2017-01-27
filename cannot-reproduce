@@ -1,0 +1,3 @@
+I cannot reproduce this
+
+Does the issue still occur when you launch VS Code w/ extensions disabled? From the command line: `code --disable-extensions`

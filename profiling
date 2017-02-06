@@ -1,0 +1,10 @@
+maybe you could run a CPU profile to see where most time is spend?
+
+To create a CPU profile using developer tools in VS Code:
+* select Help > Toggle Developer Tools
+* click on Profiles
+* click the start button
+* do whatever you need to do to get the CPU spin high
+* wait for some time (10-20 seconds should be enough)
+* stop the profiling 
+* click the save button and attach the output file to this issue
